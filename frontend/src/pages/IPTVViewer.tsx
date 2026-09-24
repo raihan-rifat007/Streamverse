@@ -20,20 +20,46 @@ const CSS = `
   ::-webkit-scrollbar-thumb  { background:var(--border-color); border-radius:10px; }
   ::-webkit-scrollbar-thumb:hover { background:var(--text-muted); }
 
-  .ptv-clist::-webkit-scrollbar-thumb { background:rgba(59,130,246,0.35); }
-  .ptv-clist::-webkit-scrollbar-thumb:hover { background:rgba(59,130,246,0.6); }
-  .ptv-clist { scrollbar-width: thin; scrollbar-color: rgba(59,130,246,0.35) transparent; }
+  .ptv-clist::-webkit-scrollbar-thumb { background:rgba(255,255,255,0.22); }
+  .ptv-clist::-webkit-scrollbar-thumb:hover { background:rgba(255,255,255,0.4); }
+  .ptv-clist { scrollbar-width: thin; scrollbar-color: rgba(255,255,255,0.22) transparent; contain: content; }
 
-  .ptv-cat { flex-shrink:0; padding:5px 13px; border-radius:999px; border:1px solid var(--glass-stroke, var(--border-color)); font-size:10.5px; font-weight:600; color:var(--text-secondary); background:rgba(255,255,255,0.08); backdrop-filter:blur(22px) saturate(180%); -webkit-backdrop-filter:blur(22px) saturate(180%); box-shadow:inset 0 1px 0 rgba(255,255,255,0.28); cursor:pointer; transition:all 0.18s; white-space:nowrap; }
-  .ptv-cat:hover  { border-color:var(--accent); color:var(--text-primary); background:rgba(255,255,255,0.14); }
-  .ptv-cat.on     { background:rgba(91,140,255,0.85); border-color:rgba(255,255,255,0.35); color:#fff; }
+  .ptv-cat {
+    flex-shrink:0; padding:6px 14px; border-radius:999px;
+    border:1px solid rgba(255,255,255,0.14);
+    font-size:10.5px; font-weight:600; color:var(--text-secondary);
+    background:rgba(255,255,255,0.06);
+    backdrop-filter:blur(28px) saturate(160%);
+    -webkit-backdrop-filter:blur(28px) saturate(160%);
+    box-shadow:inset 0 1px 0 rgba(255,255,255,0.24);
+    cursor:pointer; white-space:nowrap;
+    transition:transform 160ms cubic-bezier(0.22,1,0.36,1), background 160ms ease, border-color 160ms ease, color 160ms ease;
+    will-change: transform;
+  }
+  .ptv-cat:hover  { border-color:rgba(255,255,255,0.35); color:var(--text-primary); background:rgba(255,255,255,0.12); transform:translateY(-1px); }
+  .ptv-cat.on     { background:#fff; border-color:#fff; color:#000; }
 
-  .ptv-card { transition:border-color 0.18s, transform 0.18s, box-shadow 0.18s; cursor:pointer; background:rgba(255,255,255,0.06) !important; backdrop-filter:blur(20px) saturate(170%); -webkit-backdrop-filter:blur(20px) saturate(170%); }
-  .ptv-card:hover   { transform:translateY(-3px); border-color:rgba(91,140,255,0.55) !important; box-shadow:0 14px 28px -10px rgba(0,0,0,0.45), inset 0 1px 0 rgba(255,255,255,0.22); }
-  .ptv-card.playing { border-color:var(--accent) !important; box-shadow:0 0 0 1px var(--accent), 0 10px 24px -6px rgba(91,140,255,0.4) !important; }
+  .ptv-card {
+    cursor:pointer;
+    background:rgba(255,255,255,0.05) !important;
+    backdrop-filter:blur(24px) saturate(150%);
+    -webkit-backdrop-filter:blur(24px) saturate(150%);
+    transition:transform 180ms cubic-bezier(0.22,1,0.36,1), border-color 180ms ease, box-shadow 180ms ease;
+    will-change: transform;
+    contain: layout paint style;
+  }
+  .ptv-card:hover {
+    transform:translate3d(0,-3px,0);
+    border-color:rgba(255,255,255,0.35) !important;
+    box-shadow:0 16px 32px -12px rgba(0,0,0,0.55), inset 0 1px 0 rgba(255,255,255,0.2);
+  }
+  .ptv-card.playing {
+    border-color:#fff !important;
+    box-shadow:0 0 0 1px #fff, 0 12px 28px -10px rgba(255,255,255,0.18) !important;
+  }
 
-  .ptv-fav { transition:all 0.15s; }
-  .ptv-fav.on, .ptv-fav:hover { color:#fff !important; background:rgba(59,130,246,0.7) !important; }
+  .ptv-fav { transition:transform 140ms cubic-bezier(0.22,1,0.36,1), background 140ms ease; will-change: transform; }
+  .ptv-fav.on, .ptv-fav:hover { color:#000 !important; background:rgba(255,255,255,0.92) !important; }
 
   @media (max-width:1023px) {
     .ptv-body   { flex-direction:column !important; overflow-y:auto !important; }
@@ -208,9 +234,9 @@ export default function IPTVViewer() {
               <ChannelLogo channel={currentChannel} size={32} radius={10} />
               <div style={{ minWidth: 0 }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-                  <span style={{ width: 5, height: 5, borderRadius: '50%', background: '#ff3b30', display: 'inline-block', animation: 'livePulse 1.8s ease-in-out infinite', flexShrink: 0 }} />
+                  <span style={{ width: 5, height: 5, borderRadius: '50%', background: '#fff', display: 'inline-block', animation: 'livePulse 1.8s ease-in-out infinite', flexShrink: 0 }} />
                   <span style={{ fontWeight: 700, fontSize: 13, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', color: 'var(--text-primary)' }}>{currentChannel.name}</span>
-                  <span style={{ background: 'linear-gradient(135deg, #ff3b30, #ff2d55)', color: '#fff', fontSize: 8, fontWeight: 800, padding: '1px 6px', borderRadius: 20, letterSpacing: '0.1em', flexShrink: 0 }}>LIVE</span>
+                  <span style={{ background: '#fff', color: '#000', fontSize: 8, fontWeight: 800, padding: '1px 6px', borderRadius: 20, letterSpacing: '0.1em', flexShrink: 0 }}>LIVE</span>
                 </div>
                 <div style={{ display: 'flex', alignItems: 'center', gap: 5, marginTop: 2 }}>
                   <span style={{ fontSize: 11, color: 'var(--text-muted)', textTransform: 'capitalize' }}>{currentChannel.category}</span>
@@ -225,14 +251,14 @@ export default function IPTVViewer() {
                 marginLeft: 'auto', flexShrink: 0,
                 display: 'flex', alignItems: 'center', gap: 5,
                 padding: '5px 12px', borderRadius: 20, fontSize: 11, fontWeight: 600, cursor: 'pointer',
-                background: isFavorite(currentChannel.id) ? 'rgba(59,130,246,0.16)' : 'rgba(255,255,255,0.05)',
+                background: isFavorite(currentChannel.id) ? 'rgba(255,255,255,0.14)' : 'rgba(255,255,255,0.05)',
                 backdropFilter: 'blur(12px) saturate(160%)',
                 WebkitBackdropFilter: 'blur(12px) saturate(160%)',
-                color: isFavorite(currentChannel.id) ? 'var(--accent)' : 'var(--text-muted)',
-                border: isFavorite(currentChannel.id) ? '1px solid rgba(59,130,246,0.4)' : '1px solid var(--border-color)',
+                color: isFavorite(currentChannel.id) ? '#fff' : 'var(--text-muted)',
+                border: isFavorite(currentChannel.id) ? '1px solid rgba(255,255,255,0.5)' : '1px solid var(--border-color)',
                 transition: 'all 0.18s',
               }}>
-                <Heart size={10} fill={isFavorite(currentChannel.id) ? 'var(--accent)' : 'none'} />
+                <Heart size={10} fill={isFavorite(currentChannel.id) ? '#fff' : 'none'} />
                 {isFavorite(currentChannel.id) ? 'Saved' : 'Save'}
               </button>
             </div>
@@ -456,9 +482,9 @@ function ChannelCard({ channel, active, onSelect, onFav, isFav }: CardProps) {
           )}
 
           {active && (
-            <div style={{ position: 'absolute', top: 4, right: 4, background: 'var(--accent)', borderRadius: 20, padding: '2px 6px', display: 'flex', alignItems: 'center', gap: 3, boxShadow: '0 0 10px rgba(59,130,246,0.6)' }}>
+            <div style={{ position: 'absolute', top: 4, right: 4, background: '#fff', borderRadius: 20, padding: '2px 6px', display: 'flex', alignItems: 'center', gap: 3, boxShadow: '0 0 12px rgba(255,255,255,0.25)' }}>
               <span style={{ width: 4, height: 4, borderRadius: '50%', background: '#fff', animation: 'livePulse 1.2s ease-in-out infinite' }} />
-              <span style={{ fontSize: 6.5, fontWeight: 800, color: '#fff', letterSpacing: '0.04em' }}>ON AIR</span>
+              <span style={{ fontSize: 6.5, fontWeight: 800, color: '#000', letterSpacing: '0.04em' }}>ON AIR</span>
             </div>
           )}
 

@@ -2,28 +2,13 @@ import React, { useRef, useState } from 'react';
 import { useBrandingStore } from '../../store/brandingStore';
 
 const MAX_SIZE = 1024 * 1024;
-
-function Mark({ size = 28 }: { size?: number }) {
-  return (
-    <svg width={size} height={size} viewBox="0 0 64 64" fill="none" aria-hidden="true">
-      <defs>
-        <linearGradient id="svg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
-          <stop stopColor="#8EB6FF" />
-          <stop offset="0.5" stopColor="#5B8CFF" />
-          <stop offset="1" stopColor="#A78BFA" />
-        </linearGradient>
-      </defs>
-      <rect x="3" y="3" width="58" height="58" rx="18" fill="url(#svg)" opacity="0.95" />
-      <rect x="3" y="3" width="58" height="58" rx="18" fill="white" opacity="0.12" />
-      <path d="M24 20.5L44 32L24 43.5V20.5Z" fill="white" />
-    </svg>
-  );
-}
+const DEFAULT_LOGO = '/logo.svg';
 
 export default function BrandLogo() {
   const { logoDataUrl, siteName, setLogo, clearLogo } = useBrandingStore();
   const inputRef = useRef<HTMLInputElement>(null);
   const [menuOpen, setMenuOpen] = useState(false);
+  const src = logoDataUrl || DEFAULT_LOGO;
 
   function handleFile(e: React.ChangeEvent<HTMLInputElement>) {
     const file = e.target.files?.[0];
@@ -46,59 +31,88 @@ export default function BrandLogo() {
     <div style={{ position: 'relative', display: 'flex', alignItems: 'center', gap: 10 }}>
       <div
         onClick={() => setMenuOpen(v => !v)}
-        style={{ display: 'flex', alignItems: 'center', gap: 10, cursor: 'pointer', userSelect: 'none' }}
-        title="Tap to change logo"
+        style={{
+          display: 'flex',
+          alignItems: 'center',
+          gap: 10,
+          cursor: 'pointer',
+          userSelect: 'none',
+          WebkitTapHighlightColor: 'transparent',
+        }}
+        title="Change logo"
       >
-        {logoDataUrl ? (
-          <img
-            src={logoDataUrl}
-            alt={siteName}
-            style={{ height: 30, maxWidth: 140, objectFit: 'contain', borderRadius: 8 }}
-          />
-        ) : (
-          <>
-            <Mark />
-            <div style={{ fontSize: 17, fontWeight: 800, letterSpacing: '-0.03em', color: 'var(--text-primary)' }}>
-              Stream<span style={{ fontWeight: 650, opacity: 0.72 }}>verse</span>
-            </div>
-          </>
-        )}
+        <img
+          src={src}
+          alt={siteName || 'Streamverse'}
+          width={30}
+          height={30}
+          draggable={false}
+          style={{
+            width: 30,
+            height: 30,
+            borderRadius: 9,
+            objectFit: 'contain',
+            display: 'block',
+            flexShrink: 0,
+            willChange: 'transform',
+          }}
+        />
+        <span
+          style={{
+            fontSize: 16,
+            fontWeight: 750,
+            letterSpacing: '-0.04em',
+            color: 'var(--text-primary)',
+            lineHeight: 1,
+          }}
+        >
+          Streamverse
+        </span>
       </div>
+
       {menuOpen && (
         <>
           <div onClick={() => setMenuOpen(false)} style={{ position: 'fixed', inset: 0, zIndex: 40 }} />
-          <div
-            style={{
-              position: 'absolute', top: '100%', left: 0, marginTop: 8, zIndex: 50,
-              background: 'rgba(20,20,28,0.72)',
-              border: '1px solid rgba(255,255,255,0.16)',
-              borderRadius: 14, padding: 8, minWidth: 188,
-              backdropFilter: 'blur(24px) saturate(180%)',
-              WebkitBackdropFilter: 'blur(24px) saturate(180%)',
-              boxShadow: 'inset 0 1px 0 rgba(255,255,255,0.2), 0 16px 40px rgba(0,0,0,0.35)',
-            }}
-          >
+          <div className="glass-strong" style={{
+            position: 'absolute',
+            top: '100%',
+            left: 0,
+            marginTop: 10,
+            zIndex: 50,
+            borderRadius: 16,
+            padding: 8,
+            minWidth: 200,
+          }}>
             <button onClick={() => inputRef.current?.click()} style={menuBtnStyle}>
               Upload custom logo
             </button>
             {logoDataUrl && (
               <button
                 onClick={() => { clearLogo(); setMenuOpen(false); }}
-                style={{ ...menuBtnStyle, color: '#ef4444' }}
+                style={{ ...menuBtnStyle, color: '#ff5a5a' }}
               >
-                Remove logo
+                Reset to default logo
               </button>
             )}
           </div>
         </>
       )}
+
       <input ref={inputRef} type="file" accept="image/*" onChange={handleFile} style={{ display: 'none' }} />
     </div>
   );
 }
 
 const menuBtnStyle: React.CSSProperties = {
-  display: 'block', width: '100%', textAlign: 'left',
-  background: 'transparent', border: 'none', color: 'var(--text-primary)',
-  padding: '10px 12px', borderRadius: 8, fontSize: 14, cursor: 'pointer',
+  display: 'block',
+  width: '100%',
+  textAlign: 'left',
+  background: 'transparent',
+  border: 'none',
+  color: 'var(--text-primary)',
+  padding: '11px 12px',
+  borderRadius: 10,
+  fontSize: 13,
+  fontWeight: 560,
+  cursor: 'pointer',
 };

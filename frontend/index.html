@@ -25,31 +25,31 @@
     <script src="https://cdn.lordicon.com/lordicon.js"></script>
     <style>
       :root {
-        --bg-primary: #050509;
-        --bg-secondary: rgba(16, 16, 24, 0.55);
-        --bg-card: rgba(255, 255, 255, 0.06);
-        --bg-card-hover: rgba(255, 255, 255, 0.1);
-        --border-color: rgba(255, 255, 255, 0.14);
+        --bg-primary: #000000;
+        --bg-secondary: rgba(255, 255, 255, 0.04);
+        --bg-card: rgba(255, 255, 255, 0.05);
+        --bg-card-hover: rgba(255, 255, 255, 0.09);
+        --border-color: rgba(255, 255, 255, 0.12);
         --text-primary: #ffffff;
-        --text-secondary: rgba(255, 255, 255, 0.68);
-        --text-muted: rgba(255, 255, 255, 0.38);
-        --accent: #5b8cff;
-        --glass: rgba(255, 255, 255, 0.08);
-        --glass-stroke: rgba(255, 255, 255, 0.2);
-        --glass-highlight: rgba(255, 255, 255, 0.4);
+        --text-secondary: rgba(255, 255, 255, 0.64);
+        --text-muted: rgba(255, 255, 255, 0.36);
+        --accent: #ffffff;
+        --glass: rgba(255, 255, 255, 0.06);
+        --glass-stroke: rgba(255, 255, 255, 0.16);
+        --glass-highlight: rgba(255, 255, 255, 0.3);
       }
       html.light {
-        --bg-primary: #e7ecf6;
-        --bg-secondary: rgba(255, 255, 255, 0.52);
-        --bg-card: rgba(255, 255, 255, 0.62);
-        --bg-card-hover: rgba(255, 255, 255, 0.82);
-        --border-color: rgba(15, 23, 42, 0.1);
-        --text-primary: #0b1220;
-        --text-secondary: rgba(11, 18, 32, 0.64);
-        --text-muted: rgba(11, 18, 32, 0.4);
-        --accent: #3b6dff;
-        --glass: rgba(255, 255, 255, 0.5);
-        --glass-stroke: rgba(255, 255, 255, 0.78);
+        --bg-primary: #f4f4f5;
+        --bg-secondary: rgba(255, 255, 255, 0.7);
+        --bg-card: rgba(255, 255, 255, 0.72);
+        --bg-card-hover: rgba(255, 255, 255, 0.9);
+        --border-color: rgba(0, 0, 0, 0.1);
+        --text-primary: #0a0a0a;
+        --text-secondary: rgba(0, 0, 0, 0.58);
+        --text-muted: rgba(0, 0, 0, 0.36);
+        --accent: #0a0a0a;
+        --glass: rgba(255, 255, 255, 0.55);
+        --glass-stroke: rgba(0, 0, 0, 0.08);
         --glass-highlight: rgba(255, 255, 255, 0.95);
       }
       *, *::before, *::after {
@@ -72,6 +72,7 @@
         /* Enable 60fps GPU compositing */
         transform: translateZ(0);
         backface-visibility: hidden;
+        content-visibility: auto;
       }
       /* ── Scrollbar styling ─────────────────────────────── */
       ::-webkit-scrollbar { width: 5px; height: 5px; }
