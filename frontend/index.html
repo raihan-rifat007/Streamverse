@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="StreamVerse — thousands of live TV channels streaming free, worldwide." />
+    <title>StreamVerse — Live TV Streaming</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="StreamVerse" />
+    <meta property="og:title" content="StreamVerse — Live TV Streaming" />
+    <meta property="og:description" content="Watch 12,000+ live TV channels free — Bangladesh, India, and worldwide. No signup needed." />
+    <meta property="og:image" content="/api/og" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:url" content="https://streamverse.vercel.app" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="StreamVerse — Live TV Streaming" />
+    <meta name="twitter:description" content="Watch 12,000+ live TV channels free — Bangladesh, India, and worldwide." />
+    <meta name="twitter:image" content="/api/og" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <script src="https://cdn.lordicon.com/lordicon.js"></script>
+    <style>
+      :root {
+        --bg-primary: #000000;
+        --bg-secondary: #0a0a0a;
+        --bg-card: #111214;
+        --bg-card-hover: #17181b;
+        --border-color: rgba(255,255,255,0.08);
+        --text-primary: #ffffff;
+        --text-secondary: #9a9a9a;
+        --text-muted: #5a5a5a;
+        --accent: #3b82f6;
+      }
+      html.light {
+        --bg-primary: #f5f5f7;
+        --bg-secondary: #ffffff;
+        --bg-card: #ffffff;
+        --bg-card-hover: #f0f0f2;
+        --border-color: rgba(0,0,0,0.08);
+        --text-primary: #111111;
+        --text-secondary: #555555;
+        --text-muted: #999999;
+        --accent: #3b82f6;
+      }
+      *, *::before, *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html, body, #root {
+        height: 100%;
+        /* Prevent the page from scrolling — IPTVViewer manages its own scroll */
+        overflow: hidden;
+      }
+      body {
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background: var(--bg-primary);
+        color: var(--text-primary);
+        transition: background 0.25s ease, color 0.25s ease;
+        /* Enable 60fps GPU compositing */
+        transform: translateZ(0);
+        backface-visibility: hidden;
+      }
+      /* ── Scrollbar styling ─────────────────────────────── */
+      ::-webkit-scrollbar { width: 5px; height: 5px; }
+      ::-webkit-scrollbar-track { background: transparent; }
+      ::-webkit-scrollbar-thumb { background: rgba(59,130,246,0.35); border-radius: 10px; }
+      ::-webkit-scrollbar-thumb:hover { background: rgba(59,130,246,0.6); }
+      /* ── Live pulse animation ──────────────────────────── */
+      @keyframes livePulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50%       { opacity: 0.4; transform: scale(0.75); }
+      }
+      .live-pulse {
+        animation: livePulse 1.8s ease-in-out infinite;
+        will-change: opacity, transform;
+      }
+      /* ── Seek animation ────────────────────────────────── */
+      @keyframes seekFade {
+        0%   { opacity: 0; transform: scale(0.85); }
+        15%  { opacity: 1; transform: scale(1); }
+        80%  { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      .seek-anim {
+        animation: seekFade 0.65s cubic-bezier(0.4,0,0.2,1) forwards;
+        will-change: opacity, transform;
+      }
+      /* ── Tailwind-like utilities used in VideoPlayer ────── */
+      .absolute { position: absolute; }
+      .relative { position: relative; }
+      .inset-0  { top: 0; right: 0; bottom: 0; left: 0; }
+      .w-full   { width: 100%; }
+      .h-full   { height: 100%; }
+      .flex     { display: flex; }
+      .flex-col { flex-direction: column; }
+      .items-center  { align-items: center; }
+      .justify-center { justify-content: center; }
+      .gap-2    { gap: 8px; }
+      .gap-3    { gap: 12px; }
+      .gap-4    { gap: 16px; }
+      .gap-5    { gap: 20px; }
+      .text-center { text-align: center; }
+      .select-none { user-select: none; }
+      .max-w-xs { max-width: 260px; }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

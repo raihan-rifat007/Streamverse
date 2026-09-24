@@ -1,0 +1,36 @@
+{
+  "name": "streamverse-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5000",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.17.0",
+    "@vercel/og": "^0.6.3",
+    "axios": "^1.6.5",
+    "dayjs": "^1.11.10",
+    "framer-motion": "^11.0.3",
+    "hls.js": "^1.5.7",
+    "lucide-react": "^0.309.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.21.1",
+    "react-window": "^1.8.10",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@types/react-window": "^1.8.8",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.9.3",
+    "vite": "^5.0.11"
+  }
+}

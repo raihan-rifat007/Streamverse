@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+video::-webkit-media-controls         { display: none !important; }
+video::-webkit-media-controls-enclosure { display: none !important; }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-base:    #000000;
+  --bg-surface: #080808;
+  --bg-card:    #0a0a0a;
+  --bg-hover:   #111111;
+  --bg-border:  rgba(255,255,255,0.07);
+  --text-1: #ffffff;
+  --text-2: rgba(255,255,255,0.5);
+  --text-3: rgba(255,255,255,0.25);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+::-webkit-scrollbar       { width: 3px; height: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #222; border-radius: 10px; }
+
+.absolute { position: absolute; }
+.relative { position: relative; }
+.inset-0  { top: 0; right: 0; bottom: 0; left: 0; }
+.w-full   { width: 100%; }
+.h-full   { height: 100%; }
+.flex     { display: flex; }
+.flex-col { flex-direction: column; }
+.items-center   { align-items: center; }
+.justify-center { justify-content: center; }
+.gap-2    { gap: 8px; }
+.gap-3    { gap: 12px; }
+.select-none { user-select: none; }

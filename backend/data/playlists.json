@@ -1,0 +1,388 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u",
+    "enabled": true,
+    "label": "Bangladesh (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in.m3u",
+    "enabled": true,
+    "label": "India (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u",
+    "enabled": true,
+    "label": "USA (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/gb.m3u",
+    "enabled": true,
+    "label": "UK (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pk.m3u",
+    "enabled": true,
+    "label": "Pakistan (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+    "enabled": true,
+    "label": "Kids Global (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
+    "enabled": true,
+    "label": "Entertainment Global (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+    "enabled": true,
+    "label": "Sports Global (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/news.m3u",
+    "enabled": true,
+    "label": "News Global (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/music.m3u",
+    "enabled": true,
+    "label": "Music Global (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+    "enabled": true,
+    "label": "Movies Global (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
+    "enabled": true,
+    "label": "Animation Global (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+    "enabled": true,
+    "label": "Documentary Global (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/general.m3u",
+    "enabled": true,
+    "label": "General Global (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+    "enabled": true,
+    "label": "Free-TV Global"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-restream/iptv-org/master/index.m3u",
+    "enabled": false,
+    "label": "iptv-restream mirror (backup)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/es.m3u",
+    "enabled": true,
+    "label": "Spain (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/it.m3u",
+    "enabled": true,
+    "label": "Italy (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/de.m3u",
+    "enabled": true,
+    "label": "Germany (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u",
+    "enabled": true,
+    "label": "France (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u",
+    "enabled": true,
+    "label": "Brazil (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar.m3u",
+    "enabled": true,
+    "label": "Argentina (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/au.m3u",
+    "enabled": true,
+    "label": "Australia (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ca.m3u",
+    "enabled": true,
+    "label": "Canada (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/mx.m3u",
+    "enabled": true,
+    "label": "Mexico (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr.m3u",
+    "enabled": true,
+    "label": "Turkey (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/sa.m3u",
+    "enabled": true,
+    "label": "Saudi Arabia (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ae.m3u",
+    "enabled": true,
+    "label": "UAE (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/za.m3u",
+    "enabled": true,
+    "label": "South Africa (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jp.m3u",
+    "enabled": true,
+    "label": "Japan (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u",
+    "enabled": true,
+    "label": "South Korea (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/nl.m3u",
+    "enabled": true,
+    "label": "Netherlands (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pt.m3u",
+    "enabled": true,
+    "label": "Portugal (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+    "enabled": true,
+    "label": "Russia (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/id.m3u",
+    "enabled": true,
+    "label": "Indonesia (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ng.m3u",
+    "enabled": true,
+    "label": "Nigeria (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/main/ALL.m3u",
+    "enabled": true,
+    "label": "CricHD Live Sports (auto-updates hourly)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/main/universal_player.m3u",
+    "enabled": true,
+    "label": "T Sports Live (auto-updates)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/Channels_data.json",
+    "enabled": true,
+    "label": "Mrgify BDIX Bangladesh (auto-updates hourly)",
+    "type": "json"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/BD.m3u",
+    "enabled": true,
+    "label": "Zilla Bangladesh (auto-updates)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/romaxa55/world_ip_tv/master/output/index.m3u",
+    "enabled": true,
+    "label": "World IPTV Checker (daily verified, working only)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/CricHD.m3u",
+    "enabled": true,
+    "label": "Zilla CricHD (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/FSTV24.m3u8",
+    "enabled": true,
+    "label": "Zilla FSTV24 (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/JapanTV.m3u8",
+    "enabled": true,
+    "label": "Zilla JapanTV (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/LGTV.m3u",
+    "enabled": true,
+    "label": "Zilla LGTV (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Moveonjoy.m3u",
+    "enabled": true,
+    "label": "Zilla Moveonjoy (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Persiana.m3u",
+    "enabled": true,
+    "label": "Zilla Persiana (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Pixelsports.m3u",
+    "enabled": true,
+    "label": "Zilla Pixelsports (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Plex-All.m3u",
+    "enabled": true,
+    "label": "Zilla Plex-All (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/PlutoTV-All.m3u",
+    "enabled": true,
+    "label": "Zilla PlutoTV-All (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Roku-All.m3u",
+    "enabled": true,
+    "label": "Zilla Roku-All (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/SOFAST.m3u",
+    "enabled": true,
+    "label": "Zilla SOFAST (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/SamsungTVPlus-All.m3u",
+    "enabled": true,
+    "label": "Zilla SamsungTVPlus-All (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Stirr-All.m3u",
+    "enabled": true,
+    "label": "Zilla Stirr-All (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/TVPass.m3u",
+    "enabled": true,
+    "label": "Zilla TVPass (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Telewebion.m3u",
+    "enabled": true,
+    "label": "Zilla Telewebion (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/TheTVApp.m3u8",
+    "enabled": true,
+    "label": "Zilla TheTVApp (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/UDPTV.m3u",
+    "enabled": true,
+    "label": "Zilla UDPTV (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/US_LOCAL.m3u",
+    "enabled": true,
+    "label": "Zilla US_LOCAL (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Wnslive.m3u",
+    "enabled": true,
+    "label": "Zilla Wnslive (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/Yupptv.m3u",
+    "enabled": true,
+    "label": "Zilla Yupptv (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/distrotv.m3u",
+    "enabled": true,
+    "label": "Zilla distrotv (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/klowdtv.m3u",
+    "enabled": true,
+    "label": "Zilla klowdtv (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/samsung.m3u",
+    "enabled": true,
+    "label": "Zilla samsung (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/tubi_playlist.m3u",
+    "enabled": true,
+    "label": "Zilla tubi_playlist (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/v2hcdn.m3u",
+    "enabled": true,
+    "label": "Zilla v2hcdn (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_playlist.m3u",
+    "enabled": true,
+    "label": "Zilla xumo_playlist (live)",
+    "type": "m3u"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eg.m3u",
+    "enabled": true,
+    "label": "Egypt (iptv-org)"
+  },
+  {
+    "url": "https://iptv-org.github.io/iptv/categories/religious.m3u",
+    "enabled": true,
+    "label": "Religious Global (iptv-org)"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_bangladesh.m3u8",
+    "enabled": true,
+    "label": "Free-TV Bangladesh"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_india.m3u8",
+    "enabled": true,
+    "label": "Free-TV India"
+  }
+]
