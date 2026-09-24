@@ -94,7 +94,7 @@ export default function Favorites() {
   };
 
   return (
-    <div style={{ minHeight: '100dvh', background: 'var(--bg-primary)', color: 'var(--text-primary)', fontFamily: 'system-ui,sans-serif' }}>
+    <div className="liquid-bg" style={{ minHeight: '100dvh', background: 'var(--bg-primary)', color: 'var(--text-primary)', fontFamily: 'system-ui,sans-serif' }}>
       <header style={{
         display: 'flex', alignItems: 'center', gap: 14, padding: '0 20px', height: 52,
         background: 'var(--bg-secondary)', backdropFilter: 'blur(20px)',

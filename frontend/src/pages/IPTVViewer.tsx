@@ -24,13 +24,13 @@ const CSS = `
   .ptv-clist::-webkit-scrollbar-thumb:hover { background:rgba(59,130,246,0.6); }
   .ptv-clist { scrollbar-width: thin; scrollbar-color: rgba(59,130,246,0.35) transparent; }
 
-  .ptv-cat { flex-shrink:0; padding:4px 12px; border-radius:20px; border:1px solid var(--border-color); font-size:10.5px; font-weight:600; color:var(--text-secondary); background:rgba(255,255,255,0.05); backdrop-filter:blur(10px) saturate(160%); -webkit-backdrop-filter:blur(10px) saturate(160%); cursor:pointer; transition:all 0.15s; white-space:nowrap; }
-  .ptv-cat:hover  { border-color:var(--accent); color:var(--text-primary); }
-  .ptv-cat.on     { background:var(--text-primary); border-color:var(--text-primary); color:var(--bg-primary); }
+  .ptv-cat { flex-shrink:0; padding:5px 13px; border-radius:999px; border:1px solid var(--glass-stroke, var(--border-color)); font-size:10.5px; font-weight:600; color:var(--text-secondary); background:rgba(255,255,255,0.08); backdrop-filter:blur(22px) saturate(180%); -webkit-backdrop-filter:blur(22px) saturate(180%); box-shadow:inset 0 1px 0 rgba(255,255,255,0.28); cursor:pointer; transition:all 0.18s; white-space:nowrap; }
+  .ptv-cat:hover  { border-color:var(--accent); color:var(--text-primary); background:rgba(255,255,255,0.14); }
+  .ptv-cat.on     { background:rgba(91,140,255,0.85); border-color:rgba(255,255,255,0.35); color:#fff; }
 
-  .ptv-card { transition:border-color 0.18s, transform 0.18s, box-shadow 0.18s; cursor:pointer; }
-  .ptv-card:hover   { transform:translateY(-3px); border-color:var(--accent) !important; box-shadow:0 10px 24px -8px rgba(0,0,0,0.4); }
-  .ptv-card.playing { border-color:var(--accent) !important; box-shadow:0 0 0 1px var(--accent), 0 8px 20px -6px rgba(59,130,246,0.35) !important; }
+  .ptv-card { transition:border-color 0.18s, transform 0.18s, box-shadow 0.18s; cursor:pointer; background:rgba(255,255,255,0.06) !important; backdrop-filter:blur(20px) saturate(170%); -webkit-backdrop-filter:blur(20px) saturate(170%); }
+  .ptv-card:hover   { transform:translateY(-3px); border-color:rgba(91,140,255,0.55) !important; box-shadow:0 14px 28px -10px rgba(0,0,0,0.45), inset 0 1px 0 rgba(255,255,255,0.22); }
+  .ptv-card.playing { border-color:var(--accent) !important; box-shadow:0 0 0 1px var(--accent), 0 10px 24px -6px rgba(91,140,255,0.4) !important; }
 
   .ptv-fav { transition:all 0.15s; }
   .ptv-fav.on, .ptv-fav:hover { color:#fff !important; background:rgba(59,130,246,0.7) !important; }
@@ -159,14 +159,18 @@ export default function IPTVViewer() {
   }, [channels, currentChannel, handleSelect]);
 
   return (
-    <div style={{ height: '100dvh', display: 'flex', flexDirection: 'column', overflow: 'hidden', background: 'var(--bg-primary)', color: 'var(--text-primary)', fontFamily: "'Inter', system-ui, sans-serif" }}>
+    <div className="liquid-bg" style={{ height: '100dvh', display: 'flex', flexDirection: 'column', overflow: 'hidden', background: 'var(--bg-primary)', color: 'var(--text-primary)', fontFamily: "'Inter', system-ui, sans-serif" }}>
       <style>{CSS}</style>
 
       <header style={{
         flexShrink: 0, display: 'flex', alignItems: 'center', gap: 10,
-        padding: '0 16px', height: 48,
-        background: 'var(--bg-secondary)', backdropFilter: 'blur(14px)',
-        borderBottom: '1px solid var(--border-color)', zIndex: 100,
+        padding: '0 16px', height: 52,
+        background: 'rgba(255,255,255,0.06)',
+        backdropFilter: 'blur(28px) saturate(180%)',
+        WebkitBackdropFilter: 'blur(28px) saturate(180%)',
+        borderBottom: '1px solid rgba(255,255,255,0.14)',
+        boxShadow: 'inset 0 1px 0 rgba(255,255,255,0.22)',
+        zIndex: 100,
       }}>
         <Link to="/" style={{ textDecoration: 'none', flexShrink: 0 }}>
           <BrandLogo />
@@ -195,7 +199,11 @@ export default function IPTVViewer() {
           {currentChannel && (
             <div className="ptv-nowbar" style={{
               flexShrink: 0, display: 'flex', alignItems: 'center', gap: 10,
-              padding: '8px 14px', background: 'var(--bg-secondary)', borderTop: '1px solid var(--border-color)',
+              padding: '8px 14px',
+              background: 'rgba(255,255,255,0.06)',
+              backdropFilter: 'blur(24px) saturate(180%)',
+              WebkitBackdropFilter: 'blur(24px) saturate(180%)',
+              borderTop: '1px solid rgba(255,255,255,0.12)',
             }}>
               <ChannelLogo channel={currentChannel} size={32} radius={10} />
               <div style={{ minWidth: 0 }}>
@@ -233,12 +241,11 @@ export default function IPTVViewer() {
 
         <div className="ptv-panel" style={{
           width: 340, flexShrink: 0, display: 'flex', flexDirection: 'column', overflow: 'hidden',
-          background: 'var(--bg-secondary)',
-          borderLeft: '1px solid rgba(255,255,255,0.08)',
-          borderRight: '1px solid rgba(255,255,255,0.08)',
-          boxShadow: 'inset 1px 0 0 rgba(255,255,255,0.04), inset -1px 0 0 rgba(255,255,255,0.04)',
-          backdropFilter: 'blur(6px)',
-          WebkitBackdropFilter: 'blur(6px)',
+          background: 'rgba(12,12,20,0.42)',
+          borderLeft: '1px solid rgba(255,255,255,0.12)',
+          boxShadow: 'inset 1px 0 0 rgba(255,255,255,0.08)',
+          backdropFilter: 'blur(28px) saturate(180%)',
+          WebkitBackdropFilter: 'blur(28px) saturate(180%)',
         }}>
 
           <div style={{ flexShrink: 0, padding: '10px 10px 0' }}>
@@ -340,7 +347,7 @@ function statusBorderColor(status?: string): string {
 function faviconFromUrl(url: string): string | null {
   try {
     const host = new URL(url).hostname;
-    return `https:
+    return `https://www.google.com/s2/favicons?domain=${host}&sz=64`;
   } catch {
     return null;
   }
@@ -353,7 +360,7 @@ function ChannelLogo({ channel, size = 32, radius = 8 }: { channel: Channel; siz
   const src =
     stage === 'orig' ? channel.logo :
     stage === 'favicon' ? faviconFromUrl(channel.url) :
-    `https:
+    `https://ui-avatars.com/api/?name=${encodeURIComponent(channel.name)}&background=111827&color=fff&size=128&bold=true`;
 
   const handleLoad = (e: React.SyntheticEvent<HTMLImageElement>) => {
     const img = e.currentTarget;
@@ -388,7 +395,7 @@ function ChannelCard({ channel, active, onSelect, onFav, isFav }: CardProps) {
   const src =
     stage === 'orig' ? channel.logo :
     stage === 'favicon' ? faviconFromUrl(channel.url) :
-    `https:
+    `https://ui-avatars.com/api/?name=${encodeURIComponent(channel.name)}&background=111827&color=fff&size=128&bold=true`;
 
   const handleImgLoad = (e: React.SyntheticEvent<HTMLImageElement>) => {
     const img = e.currentTarget;
