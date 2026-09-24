@@ -176,7 +176,7 @@ async function fetchCountryChannels(countryCode) {
 
   let channels = [...customForCountry];
 
-  const url = `https:
+  const url = `https://iptv-org.github.io/iptv/countries/${code}.m3u`;
   try {
     const response = await axios.get(url, {
       timeout: 30000,
