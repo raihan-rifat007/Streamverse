@@ -4,10 +4,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3-atn-music",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-7-dbc-news",
     "reason": "failed 3+ consecutive checks"
   },
@@ -116,11 +112,11 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-210-kcl-tv",
+    "id": "sv-230-mazhavil-manorama-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-230-mazhavil-manorama-hd",
+    "id": "sv-239-mtv-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
