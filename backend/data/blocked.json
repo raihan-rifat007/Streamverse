@@ -192,10 +192,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-596-all-time-movies",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-597-kabaddi-24x7",
     "reason": "failed 3+ consecutive checks"
   },
@@ -245,6 +241,82 @@
   },
   {
     "id": "sv-626-national-geographic-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-674-gospel-tv-india",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-728-zee-telugu-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-729-zee-cinemalu-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-731-etv-life",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-732-aradana-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-734-dd-urdu",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-741-jaya-plus",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-742-captain",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-744-bada-khabar",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-745-mbc-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-747-kanak-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-749-bhakthi-siri",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-752-dhamaal-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-753-hindi-khabar-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-755-mastiii-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-758-music-india-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-770-sarv-dharam-sangam",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8749-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8750-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
