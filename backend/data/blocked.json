@@ -16,6 +16,14 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-21-rupashi-bangla-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-22-t-sports",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-23-vokta-tv",
     "reason": "failed 3+ consecutive checks"
   },
@@ -224,6 +232,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-615-disney-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-616-starplus-hd",
     "reason": "failed 3+ consecutive checks"
   },
@@ -237,18 +249,6 @@
   },
   {
     "id": "sv-622-colors-cineplex-bollywood-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-623-xplor-hd-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-624-sony-max-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-625-star-jalsha-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -325,270 +325,6 @@
   },
   {
     "id": "sv-770-sarv-dharam-sangam",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-787-access-4-pac",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-788-access-19",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-807-alabama-weather-network",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-808-alhurra",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-809-alhurra-iraq",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-837-axn-black",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-842-axn-latin-america-mexico",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-845-axn-white-bulgaria",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-858-bein-sports-xtra-en-espanol",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-860-best-of-dr-phil",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-864-big-civic-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-865-big-community-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-876-bloomfield-access-government-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-877-bloomfield-access-tv-channel-5",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-886-bx-arts",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-887-bx-culture",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-888-bx-inform",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-889-bx-inspire",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-890-bx-omni",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-903-ccx1",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-906-channel-18-gac",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-918-city-of-monroe-government-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-922-clubbing-tv-france",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-931-costv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-943-daystar-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-947-detroit-channel-10",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-948-detroit-channel-21",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-949-detroit-channel-22",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-950-detroit-channel-68",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-956-disney-junior",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-959-dnews",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-964-dreamworks-channel-asia",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-974-espnu",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-983-fox",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-990-fox-west",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-998-gagsnetwork",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1003-giggle-mug",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1010-gmtv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1019-hallmark-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1022-hctv-educational-access-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1023-hctv-government-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1024-hctv-public-access-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1046-infowars-network",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1047-infowars-the-alex-jones-show",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1048-infowars-the-american-journal",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1049-infowars-war-room-with-owen-shroyer",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1060-jus-hindi",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1061-jus-one",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1062-jus-punjabi",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1068-ketchup-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1090-kttv-11-1",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1095-la-que-buena-atlanta",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1096-laff",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1099-lifetime-asia",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1102-lifetime-movies",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1122-magnificent-movies-network",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1130-metaleitor-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1131-metv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1136-monroe-community-media-education-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1137-monroe-community-media-public-access-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1138-montgomery-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1140-movies",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1158-nbc",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1164-nbc-universo-west",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1165-nbc-west",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1168-new-k-pop",
     "reason": "failed 3+ consecutive checks"
   }
 ]
