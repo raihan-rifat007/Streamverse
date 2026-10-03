@@ -4,6 +4,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-3-atn-music",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-7-dbc-news",
     "reason": "failed 3+ consecutive checks"
   },
@@ -28,6 +32,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-31-9xm",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-36-aaj-tak",
     "reason": "failed 3+ consecutive checks"
   },
@@ -41,10 +49,6 @@
   },
   {
     "id": "sv-50-aathavan-tv-not-24-7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-97-bansal-news",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -140,10 +144,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-318-rdx-goa-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-356-shekinah-tv",
     "reason": "failed 3+ consecutive checks"
   },
@@ -153,6 +153,14 @@
   },
   {
     "id": "sv-369-sony-max-2",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-374-star-sports-2-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-375-star-sports-2-hindi",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -253,6 +261,10 @@
   },
   {
     "id": "sv-626-national-geographic-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8909-24",
     "reason": "failed 3+ consecutive checks"
   }
 ]
