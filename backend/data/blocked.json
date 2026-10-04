@@ -20,19 +20,11 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-21-rupashi-bangla-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-22-t-sports",
     "reason": "failed 3+ consecutive checks"
   },
   {
     "id": "sv-23-vokta-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-31-9xm",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -149,122 +141,6 @@
   },
   {
     "id": "sv-357-shemaroo-filmi-gaane",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-369-sony-max-2",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-374-star-sports-2-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-375-star-sports-2-hindi",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-400-times-now-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-401-times-now-navbharat-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-407-travelxp-4k-hdr-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-428-vip-news",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-448-zee-cine-classic",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-451-zee-comedy-nation",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-453-zee-dil-se",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-454-zee-horror-nights",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-462-zee-south-flix",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-466-zee-zest-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-535-nagaland-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-563-yet-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-564-yet-max",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-566-win-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-597-kabaddi-24x7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-605-colors-bangla-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-608-sony-aath",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-609-sony-yay",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-610-disney-channel-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-615-disney-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-616-starplus-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-617-colors-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-621-nickelodeon-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-622-colors-cineplex-bollywood-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-626-national-geographic-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8909-24",
     "reason": "failed 3+ consecutive checks"
   }
 ]
