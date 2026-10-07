@@ -144,6 +144,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-319-real-news-kerala-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-356-shekinah-tv",
     "reason": "failed 3+ consecutive checks"
   },
@@ -224,43 +228,55 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-594-kabaddi-24x7",
+    "id": "sv-8929-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-602-colors-bangla-hd",
+    "id": "sv-8930-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-605-sony-aath",
+    "id": "sv-8933-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-606-sony-yay",
+    "id": "sv-10652-bd-zee-anmol",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-607-disney-channel-hd",
+    "id": "sv-10653-bd-b4u-music",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-608-sony-pal",
+    "id": "sv-10654-bd-zing",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8942-24",
+    "id": "sv-10655-bd-sony-entertainment-television-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8947-",
+    "id": "sv-10656-bd-sony-sab-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8948-",
+    "id": "sv-10657-bd-zee-tv-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8951-",
+    "id": "sv-10658-bd-tv-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10659-bd-sony-entertainment-television",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17032-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17034-tvn",
     "reason": "failed 3+ consecutive checks"
   }
 ]
