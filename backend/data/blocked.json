@@ -28,6 +28,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-31-9xm",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-36-aaj-tak",
     "reason": "failed 3+ consecutive checks"
   },
@@ -228,55 +232,7 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8929-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8930-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8933-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-10652-bd-zee-anmol",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-10653-bd-b4u-music",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-10654-bd-zing",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-10655-bd-sony-entertainment-television-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-10656-bd-sony-sab-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-10657-bd-zee-tv-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-10658-bd-tv-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-10659-bd-sony-entertainment-television",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17032-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17034-tvn",
+    "id": "sv-8951-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
