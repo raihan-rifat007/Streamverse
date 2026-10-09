@@ -232,7 +232,287 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8951-",
+    "id": "sv-593-kabaddi-24x7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-595-starplus-hd-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-601-colors-bangla-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-604-sony-aath",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-605-sony-yay",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-606-disney-channel-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-607-sony-pal",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-608-starplus-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-609-colors-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-610-tv-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-613-nickelodeon-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-614-colors-cineplex-bollywood-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-618-national-geographic-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-626-sony-wah",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-627-sony-sports-ten-1",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-628-sony-sports-ten-1-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-629-sony-sports-ten-2",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-630-sony-sports-ten-2-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-631-sony-sports-ten-3-hindi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-632-sony-sports-ten-3-hindi-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-633-sony-sports-ten-4",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-634-sony-sports-ten-4-telugu",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-635-sony-sports-ten-5",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-636-sony-pix-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-637-sony-marathi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-682-asianet-hd-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-778-starplus",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-782-star-pravah",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-786-asianet",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-788-star-gold-2",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-789-star-maa",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-790-star-maa-movies",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-791-star-maa-music",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-801-unite8-sports-1-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-802-unite8-sports-2-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-814-colors-tamil",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-819-news-j",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-820-raftaar-samay",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-821-nakshatra-digital-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-824-rs-bharat",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-826-kkd-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-827-samachar-nation",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-828-in-24-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-830-news-21",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-832-abc-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-837-bharat-news-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-839-express-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-840-anaadi-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-842-ann-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-846-kannur-one",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-847-shiksha-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-849-wah-punjabi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-850-kite-victers",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-851-santvani-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-852-colors-bangla",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-853-colors-kannada",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-855-colors-infinity",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-857-colors-marathi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-858-surya-samachar",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-859-kalaignar-seithigal",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-861-star-gold-select",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-863-star-movies",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-866-calvary-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-867-propex-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-869-live-samachar-bharat",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-885-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-890-sun-tv-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-894-star-sports-3",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-901-star-kiran",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-902-sony-sports-ten-4-kannada",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17048-tvn",
     "reason": "failed 3+ consecutive checks"
   }
 ]
