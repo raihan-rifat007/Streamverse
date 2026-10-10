@@ -20,6 +20,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-12-green-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-22-t-sports",
     "reason": "failed 3+ consecutive checks"
   },
@@ -212,6 +216,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-521-raj-news-kannada",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-532-nagaland-tv",
     "reason": "failed 3+ consecutive checks"
   },
@@ -280,6 +288,14 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-615-xplor-hd-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-616-sony-max-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-618-national-geographic-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
@@ -332,7 +348,87 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-682-asianet-hd-not-24-7",
+    "id": "sv-697-mahimai-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-719-zee-telugu-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-720-zee-cinemalu-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-722-etv-life",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-723-aradana-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-725-dd-urdu",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-732-jaya-plus",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-733-captain",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-735-bada-khabar",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-736-mbc-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-738-kanak-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-740-bhakthi-siri",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-743-dhamaal-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-744-hindi-khabar-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-746-mastiii-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-749-music-india-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-752-bhagyam-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-761-sarv-dharam-sangam",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-766-national-geographic-wild",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-768-star-gold",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-769-national-geographic",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -364,11 +460,27 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-799-colors-gujarati-cinema",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-800-zee-talkies-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-801-unite8-sports-1-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
     "id": "sv-802-unite8-sports-2-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-803-xplor-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-806-zee-punjabi",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -385,6 +497,14 @@
   },
   {
     "id": "sv-821-nakshatra-digital-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-822-india-24x7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-823-fashion-india",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -416,6 +536,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-838-buletin-india",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-839-express-news",
     "reason": "failed 3+ consecutive checks"
   },
@@ -425,6 +549,10 @@
   },
   {
     "id": "sv-842-ann-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-843-24hrs-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -488,6 +616,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-868-dnn",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-869-live-samachar-bharat",
     "reason": "failed 3+ consecutive checks"
   },
@@ -512,7 +644,11 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17048-tvn",
+    "id": "sv-1597-espn-deportes-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1598-starz-encore-spanish",
     "reason": "failed 3+ consecutive checks"
   }
 ]
