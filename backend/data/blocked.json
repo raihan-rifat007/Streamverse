@@ -52,6 +52,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-59-amarujala",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-97-bansal-news",
     "reason": "failed 3+ consecutive checks"
   },
@@ -308,347 +312,59 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-628-sony-sports-ten-1-hd",
+    "id": "sv-2118-tv-arberia-3-femije",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-629-sony-sports-ten-2",
+    "id": "sv-2119-tv-bahoriston",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-630-sony-sports-ten-2-hd",
+    "id": "sv-2122-unikum",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-631-sony-sports-ten-3-hindi",
+    "id": "sv-2125-vtv-indonesia-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-632-sony-sports-ten-3-hindi-hd",
+    "id": "sv-2128-yaaas-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-633-sony-sports-ten-4",
+    "id": "sv-2129-you-man-cartoon-channel",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-634-sony-sports-ten-4-telugu",
+    "id": "sv-2137-5-plus",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-635-sony-sports-ten-5",
+    "id": "sv-8756-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-636-sony-pix-hd",
+    "id": "sv-8923-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-637-sony-marathi",
+    "id": "sv-8930-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-697-mahimai-tv",
+    "id": "sv-8933-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-719-zee-telugu-hd",
+    "id": "sv-8935-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-720-zee-cinemalu-hd",
+    "id": "sv-8968-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-722-etv-life",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-723-aradana-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-725-dd-urdu",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-732-jaya-plus",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-733-captain",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-735-bada-khabar",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-736-mbc-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-738-kanak-news",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-740-bhakthi-siri",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-743-dhamaal-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-744-hindi-khabar-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-746-mastiii-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-749-music-india-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-752-bhagyam-tv-not-24-7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-761-sarv-dharam-sangam",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-766-national-geographic-wild",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-768-star-gold",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-769-national-geographic",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-778-starplus",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-782-star-pravah",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-786-asianet",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-788-star-gold-2",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-789-star-maa",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-790-star-maa-movies",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-791-star-maa-music",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-799-colors-gujarati-cinema",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-800-zee-talkies-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-801-unite8-sports-1-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-802-unite8-sports-2-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-803-xplor-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-806-zee-punjabi",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-814-colors-tamil",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-819-news-j",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-820-raftaar-samay",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-821-nakshatra-digital-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-822-india-24x7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-823-fashion-india",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-824-rs-bharat",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-826-kkd-news",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-827-samachar-nation",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-828-in-24-news",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-830-news-21",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-832-abc-news",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-837-bharat-news-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-838-buletin-india",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-839-express-news",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-840-anaadi-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-842-ann-news",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-843-24hrs-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-846-kannur-one",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-847-shiksha-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-849-wah-punjabi",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-850-kite-victers",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-851-santvani-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-852-colors-bangla",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-853-colors-kannada",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-855-colors-infinity",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-857-colors-marathi",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-858-surya-samachar",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-859-kalaignar-seithigal",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-861-star-gold-select",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-863-star-movies",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-866-calvary-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-867-propex-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-868-dnn",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-869-live-samachar-bharat",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-885-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-890-sun-tv-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-894-star-sports-3",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-901-star-kiran",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-902-sony-sports-ten-4-kannada",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1597-espn-deportes-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1598-starz-encore-spanish",
+    "id": "sv-8969-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
