@@ -20,10 +20,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-12-green-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-22-t-sports",
     "reason": "failed 3+ consecutive checks"
   },
@@ -304,51 +300,15 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-626-sony-wah",
+    "id": "sv-8767-bs",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-627-sony-sports-ten-1",
+    "id": "sv-8928-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2118-tv-arberia-3-femije",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-2119-tv-bahoriston",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-2122-unikum",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-2125-vtv-indonesia-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-2128-yaaas-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-2129-you-man-cartoon-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-2137-5-plus",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8756-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8923-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8930-",
+    "id": "sv-8932-",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -356,7 +316,27 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-8934-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-8935-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8937-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8949-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8953-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8957-24",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -365,6 +345,18 @@
   },
   {
     "id": "sv-8969-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10650-bd-sony-aath",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17049-tvn",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17057-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
