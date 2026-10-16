@@ -4,6 +4,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-3-atn-music",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-7-dbc-news",
     "reason": "failed 3+ consecutive checks"
   },
@@ -13,6 +17,14 @@
   },
   {
     "id": "sv-11-gazi-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-13-maasranga-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-20-rtv",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -29,6 +41,10 @@
   },
   {
     "id": "sv-36-aaj-tak",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-38-aakaash-aath",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -220,6 +236,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-502-polimer-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-521-raj-news-kannada",
     "reason": "failed 3+ consecutive checks"
   },
@@ -368,7 +388,7 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-736-sangeet-bangla-geo-blocked",
+    "id": "sv-737-q-tv-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -396,99 +416,11 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1599-cartoon-network-latin-america-north-atlantic",
+    "id": "sv-9001-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8933-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8934-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8935-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8939-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8943-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8944-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8946-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8948-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8960-24",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8964-24",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8968-24",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8979-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-8980-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-11134-magic-kids",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-11135-azteca-7-mexico-city",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17031-tvn-1-2",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17034-tvn",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17039-kbs",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17057-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17058-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17059-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17060-jtbc",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17061-",
+    "id": "sv-9005-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
