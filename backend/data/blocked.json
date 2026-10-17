@@ -20,14 +20,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-13-maasranga-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-20-rtv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-22-t-sports",
     "reason": "failed 3+ consecutive checks"
   },
@@ -44,10 +36,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-38-aakaash-aath",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-43-aastha-bhajan",
     "reason": "failed 3+ consecutive checks"
   },
@@ -61,10 +49,6 @@
   },
   {
     "id": "sv-59-amarujala",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-87-assam-talks",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -324,6 +308,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-671-asianet-hd-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-686-mahimai-tv",
     "reason": "failed 3+ consecutive checks"
   },
@@ -416,11 +404,51 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9001-",
+    "id": "sv-787-sun-tv-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-793-star-sports-1",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-794-star-sports-3",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-802-star-kiran",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-807-sony-sports-ten-4-kannada",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2185-6ter",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2186-7-8-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2187-7-gold",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2189-9gem-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2194-20-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
     "id": "sv-9005-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9026-24",
     "reason": "failed 3+ consecutive checks"
   }
 ]
