@@ -220,6 +220,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-478-apn",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-502-polimer-tv",
     "reason": "failed 3+ consecutive checks"
   },
@@ -305,6 +309,14 @@
   },
   {
     "id": "sv-618-national-geographic-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-644-asom-live-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-645-only-bharat",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -404,51 +416,79 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-787-sun-tv-hd",
+    "id": "sv-2854-vinh-long-tv-2",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-793-star-sports-1",
+    "id": "sv-2859-voz-di-bonaire-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-794-star-sports-3",
+    "id": "sv-2860-vrt-channel",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-802-star-kiran",
+    "id": "sv-2863-west",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-807-sony-sports-ten-4-kannada",
+    "id": "sv-2867-xpertv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2185-6ter",
+    "id": "sv-2871-yes",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2186-7-8-tv",
+    "id": "sv-2873-yourtime-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2187-7-gold",
+    "id": "sv-2875-yunavision-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2189-9gem-geo-blocked",
+    "id": "sv-2884-5plus",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2194-20-geo-blocked",
+    "id": "sv-2885-5stars",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9005-",
+    "id": "sv-2890-adjarasport-1",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9026-24",
+    "id": "sv-2893-alfa-sport-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2906-awapa-sports-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2911-band-sports",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2912-barca-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9002-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9008-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9013-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9025-24",
     "reason": "failed 3+ consecutive checks"
   }
 ]
