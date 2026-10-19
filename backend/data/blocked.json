@@ -8,6 +8,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-6-channel-s",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-7-dbc-news",
     "reason": "failed 3+ consecutive checks"
   },
@@ -252,6 +256,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-592-all-time-movies",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-593-kabaddi-24x7",
     "reason": "failed 3+ consecutive checks"
   },
@@ -416,71 +424,143 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2854-vinh-long-tv-2",
+    "id": "sv-2696-pula-tv-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2859-voz-di-bonaire-tv",
+    "id": "sv-2697-qonaev-media",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2860-vrt-channel",
+    "id": "sv-2703-radio-omega-tv-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2863-west",
+    "id": "sv-2708-rakuten-viki",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2867-xpertv",
+    "id": "sv-2719-rede-premium-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2871-yes",
+    "id": "sv-2725-riku-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2873-yourtime-tv",
+    "id": "sv-2729-roar-wkef",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2875-yunavision-not-24-7",
+    "id": "sv-2730-roar-wsbt-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2884-5plus",
+    "id": "sv-2734-rtl9",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2885-5stars",
+    "id": "sv-2738-sas-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2890-adjarasport-1",
+    "id": "sv-2739-sbs6-classics-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2893-alfa-sport-not-24-7",
+    "id": "sv-2740-scifi",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2906-awapa-sports-tv-not-24-7",
+    "id": "sv-2742-shamshad-tv-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2911-band-sports",
+    "id": "sv-2743-show-do-milhao-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2912-barca-tv",
+    "id": "sv-2747-sonce",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9002-",
+    "id": "sv-2756-star-channel-netherlands",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9008-",
+    "id": "sv-2757-star-channel-portugal",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2764-super7fm",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2766-super",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2773-tdm-entertainment",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2784-tf1",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2785-tf1-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2798-tnt4-international",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2800-tnt-russia-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2801-tnt-international",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2803-tnt-international-sd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2812-tv-canal-sur-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2815-tv-digital-birigui",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2816-tv-empire",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2817-tv-era-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2821-tv-kaliente",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2827-tv-vitoria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2834-tvcarib-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2837-tvmax",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9011-",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -488,7 +568,11 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9025-24",
+    "id": "sv-9015-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9033-24",
     "reason": "failed 3+ consecutive checks"
   }
 ]
