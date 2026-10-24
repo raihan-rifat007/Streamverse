@@ -36,123 +36,347 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-43-aastha-bhajan",
+    "id": "sv-50-abn-andhra-jyoti",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-47-aastha-sd",
+    "id": "sv-58-amarujala",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2738-sas-tv",
+    "id": "sv-96-bansal-news",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2739-sbs6-classics-geo-blocked",
+    "id": "sv-124-dd-national-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2740-scifi",
+    "id": "sv-126-dharsan-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2742-shamshad-tv-not-24-7",
+    "id": "sv-130-dy-365",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2743-show-do-milhao-geo-blocked",
+    "id": "sv-131-e-vidya-4",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2756-star-channel-netherlands",
+    "id": "sv-132-e-vidya-5",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2757-star-channel-portugal",
+    "id": "sv-133-e-vidya-6",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2764-super7fm",
+    "id": "sv-134-e-vidya-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2766-super",
+    "id": "sv-135-e-vidya-8",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2773-tdm-entertainment",
+    "id": "sv-136-e-vidya-9",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2784-tf1",
+    "id": "sv-137-e-vidya-10",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2785-tf1-hd",
+    "id": "sv-138-e-vidya-11",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2798-tnt4-international",
+    "id": "sv-139-e-vidya-12",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2800-tnt-russia-hd",
+    "id": "sv-145-et-now-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2801-tnt-international",
+    "id": "sv-146-etv-andhra-pradesh",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2962-dazn-darts-x-pluto-tv",
+    "id": "sv-148-etv-cinema-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2963-dazn-heldinnen-x-pluto-tv",
+    "id": "sv-154-etv-plus-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2966-digi-sport-2-hd-1080i",
+    "id": "sv-155-etv-telangana",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2976-ert-sports-1",
+    "id": "sv-196-jonack-tv-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2977-ert-sports-2",
+    "id": "sv-237-mtv-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2978-espn-2-netherlands",
+    "id": "sv-263-news18-kerala-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2979-espn-3-brazil",
+    "id": "sv-273-news-24",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2980-espn-3-netherlands",
+    "id": "sv-316-rdx-goa-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2982-espn-4-netherlands",
+    "id": "sv-354-shekinah-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2985-espn-netherlands",
+    "id": "sv-355-shemaroo-filmi-gaane",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8972-24",
+    "id": "sv-370-star-sports-2-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8979-",
+    "id": "sv-371-star-sports-2-hindi",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8999-24",
+    "id": "sv-374-starplus-hd-1080i",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-396-times-now-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-397-times-now-navbharat-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-403-travelxp-4k-hdr-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-415-unite8-sports-2",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-424-vip-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-444-zee-cine-classic",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-447-zee-comedy-nation",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-449-zee-dil-se",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-450-zee-horror-nights",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-458-zee-south-flix",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-519-raj-news-kannada",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-530-nagaland-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4724-cinestar-1-bulgaria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4725-cinevault-80s",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4726-cinewow",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4736-city-eden-kinosemya-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4741-cnd-film-middle-school-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4742-ctb-perth-movies-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4745-detskoe-kino-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4746-diema",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4748-dom-kino-international",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4749-dom-kino-premium",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4757-ekran-movies",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4760-evrokino",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4762-fan",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4763-feniks-plus-kino",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4764-film1-action",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4765-film1-drama",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4766-film1-family",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4767-film1-premiere",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4769-film-arts",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4771-film-cafe-romania",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4772-film-now",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4773-film-now-hd-1080i",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4783-filmbox-emotion-bulgaria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4786-filmbox-emotion-romania",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4797-filmbox-love-crime-bulgaria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4800-filmbox-one-bulgaria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4803-filmbox-one-nederland",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4805-filmbox-one-ukraine-baltics-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4813-gem-bollywood",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4814-gem-drama",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4815-gem-drama",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4816-gem-film",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4817-gem-onyx",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4818-gem-pixel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4819-gem-rubix",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4820-gem-rubix",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4821-gem-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4822-gem-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4826-golden-premier-2",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4827-golden-premier",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5016-pluto-tv-ferne-galaxien",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5022-pluto-tv-film-ancora-piu-romantici",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5060-pluto-tv-notti-di-sangue",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5061-pluto-tv-notti-di-terrore",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -161,6 +385,130 @@
   },
   {
     "id": "sv-9012-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9018-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9020-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9027-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9033-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10552-national-geographic-wild",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10553-big-planet",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10554-domashniy",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10555-zhivi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10556-zoopark",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10557-lapki-live",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10558-bober",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10559-velvet-world-series",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10560-velvet-svaty",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10561-velvet-series-hits",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10562-velvet-mentovskiye-serialy",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10653-africa-tv3-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10655-caught-up-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10657-cloveworld-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10659-dunamis-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10661-foursquare-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10663-master-s-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10664-more-grace-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10665-new-vision-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10667-nta-international-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10668-phenomenal-life-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10669-plus-tv-africa-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10671-quest-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10672-soundcity-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10677-whole-word-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10679-t-sports-live-01",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17124-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
