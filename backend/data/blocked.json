@@ -40,7 +40,7 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-82-aryan-tv-national",
+    "id": "sv-86-assam-talks",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -156,267 +156,79 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3197-sport-tv1",
+    "id": "sv-798-sun-tv-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3198-sport-tv2",
+    "id": "sv-4285-ondambiental-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3199-sport-tv5",
+    "id": "sv-4286-one-adria",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3200-sport-tv6",
+    "id": "sv-4291-orbita-chile-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3201-sport-tv7",
+    "id": "sv-4293-oxigeno-tv-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3203-sport-tv",
+    "id": "sv-4303-pequeradio-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3204-sport-qazaqstan",
+    "id": "sv-4307-picosa-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3205-sportitalia-24-geo-blocked",
+    "id": "sv-4312-pluto-tv-karaoke-por-stingray",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3207-sportitalia-motori-geo-blocked",
+    "id": "sv-4313-pluto-tv-karaoke-por-stingray-latam",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3208-sportitalia-solocalcio",
+    "id": "sv-4326-prattel-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3212-sportv-2",
+    "id": "sv-4327-q-music",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3213-sportv-3",
+    "id": "sv-4334-radio-21-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3217-start-triumf",
+    "id": "sv-4342-radio-contact",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3221-sukan-rtm-geo-blocked",
+    "id": "sv-4348-radio-fiessta",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3222-supertennis",
+    "id": "sv-4721-cinemax-asia-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3229-tdm-sports",
+    "id": "sv-4814-gem-drama",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3234-tigo-sports-costa-rica-geo-blocked",
+    "id": "sv-4819-gem-rubix",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3235-tigo-sports-el-salvador",
+    "id": "sv-4821-gem-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-3236-tigo-sports-guatemala",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3239-tigo-sports",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3240-tjk-tv-2-not-24-7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3247-trt-spor",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3253-tv-cuatro-4-3",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3254-tvmatic-fight",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3257-tvri-sport",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3261-upl-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3518-cts-news-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3529-don-24",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3530-donbass-online-not-24-7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3539-e-tv-news-sport",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3542-ebc-financial-news-not-24-7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-3543-ebc-news-not-24-7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4095-gem-mifa",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4398-rock-tv-north-macedonia-not-24-7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4400-rotana-fm-ksa",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4401-rotana-khalijia-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4402-rotana-music-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4411-rts-muzika",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4412-rtv-glas-drine-not-24-7",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4426-sin-limites",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4485-that-s-70s-sd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4496-top-tv-serbia",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4504-totovision",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4534-tropical-moon-cumbia-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4539-tv-arberia-4-muzike",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4540-tv-arberia-retro-hits",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4558-vantage-classic",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4559-vantage-dance",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4560-vantage-music-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4564-vevo-2k",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4565-vevo-70s",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4566-vevo-80s",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4567-vevo-90s",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4568-vevo-country",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4572-vevo-retro-rock",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4574-video-rola",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4577-vip-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4624-amc-europe-romania",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4626-amedia-premium",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4631-axn-portugal",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4674-cctv-6-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4678-celestial-movies-576i",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4679-chc-action",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4681-cine34-geo-blocked",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4682-cine34-hd",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-4707-cine-classic",
+    "id": "sv-8864-",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -424,15 +236,7 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9011-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-9012-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-9018-",
+    "id": "sv-9017-24",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -452,47 +256,87 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9047-24",
+    "id": "sv-9023-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9054-",
+    "id": "sv-9028-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9058-",
+    "id": "sv-10594-biznet-adventure",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9788-1001-noites-not-24-7",
+    "id": "sv-10595-biznet-lifestyle",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9789-agrobrasil-tv-not-24-7",
+    "id": "sv-10596-bn-channel-576i",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9796-canal-25-jundiai",
+    "id": "sv-10605-idtv-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9804-canal-off",
+    "id": "sv-10608-matrix-tv-yogyakarta",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9806-canal-saude",
+    "id": "sv-10610-mdtv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9807-canal-sa-de-not-24-7",
+    "id": "sv-10611-mgi-tv-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9810-conecta-tv",
+    "id": "sv-10620-rajawali-tv-576i",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9811-cultura-par-not-24-7",
+    "id": "sv-10629-semarang-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10630-simpang5-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10645-tegar-tv-lampung",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10648-tv-mu-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10650-tvku",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10651-tvr-parlemen-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10655-gtv-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10660-tvri",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-10661-vtv-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-11124-tv-centrafricaine",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17147-tvn",
     "reason": "failed 3+ consecutive checks"
   }
 ]
