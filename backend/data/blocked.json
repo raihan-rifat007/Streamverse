@@ -204,15 +204,103 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1088-dnews",
+    "id": "sv-991-best-of-dr-phil",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1093-dreamworks-channel-asia",
+    "id": "sv-995-big-civic-channel",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8895-",
+    "id": "sv-996-big-community-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1007-bloomfield-access-government-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1008-bloomfield-access-tv-channel-5",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1017-bx-arts",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1018-bx-culture",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1019-bx-inform",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1020-bx-inspire",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1021-bx-omni",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1034-ccx1",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1037-channel-18-gac",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1049-city-of-monroe-government-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1053-clubbing-tv-france",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1061-costv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1073-daystar-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1077-detroit-channel-10",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1078-detroit-channel-21",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1079-detroit-channel-22",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1080-detroit-channel-68",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1290-news12-hudson-valley-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1607-la-rosa-de-guadalupe",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1610-kidoo-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1616-ztv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8894-",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -220,23 +308,11 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9014-",
+    "id": "sv-9047-24",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9019-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-9048-",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17168-tvn",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-17172-",
+    "id": "sv-9060-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
