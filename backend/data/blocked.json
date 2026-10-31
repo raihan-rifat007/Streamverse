@@ -44,6 +44,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-105-chardikla-time-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-124-dd-national-hd",
     "reason": "failed 3+ consecutive checks"
   },
@@ -136,6 +140,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-334-sai-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-354-shekinah-tv",
     "reason": "failed 3+ consecutive checks"
   },
@@ -200,99 +208,351 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-557-win-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-586-all-time-movies",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-588-starplus-hd-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-590-nickelodeon",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-591-sonic",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-592-nick-jr",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-593-colors-bangla-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-594-super-hungama",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-595-sony-aath",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-596-sony-yay",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-597-disney-channel-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-598-hungama-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-991-best-of-dr-phil",
+    "id": "sv-599-sony-pal",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-995-big-civic-channel",
+    "id": "sv-600-starplus-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-996-big-community-channel",
+    "id": "sv-603-nickelodeon-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1007-bloomfield-access-government-tv",
+    "id": "sv-630-asom-live-24",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1008-bloomfield-access-tv-channel-5",
+    "id": "sv-631-only-bharat",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1017-bx-arts",
+    "id": "sv-663-mahimai-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1018-bx-culture",
+    "id": "sv-674-nh-bollygold",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1019-bx-inform",
+    "id": "sv-686-etv-telugu-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1020-bx-inspire",
+    "id": "sv-687-etv-life",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1021-bx-omni",
+    "id": "sv-688-aradana-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1034-ccx1",
+    "id": "sv-690-dd-urdu",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1037-channel-18-gac",
+    "id": "sv-697-jaya-plus",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1049-city-of-monroe-government-channel",
+    "id": "sv-698-captain",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1053-clubbing-tv-france",
+    "id": "sv-700-bada-khabar",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1061-costv",
+    "id": "sv-701-mbc-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1073-daystar-tv",
+    "id": "sv-703-kanak-news",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1077-detroit-channel-10",
+    "id": "sv-705-bhakthi-siri",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1078-detroit-channel-21",
+    "id": "sv-708-dhamaal-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1079-detroit-channel-22",
+    "id": "sv-709-hindi-khabar-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1080-detroit-channel-68",
+    "id": "sv-711-mastiii-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1290-news12-hudson-valley-geo-blocked",
+    "id": "sv-712-sangeet-bangla-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1607-la-rosa-de-guadalupe",
+    "id": "sv-714-music-india-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1610-kidoo-geo-blocked",
+    "id": "sv-717-bhagyam-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-718-prarthana-bhawan-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-726-sarv-dharam-sangam",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-746-star-gold-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-747-sony-sports-ten-1-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-748-sony-bbc-earth-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-749-colors-bangla-cinema",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-750-colors-cineplex-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-751-colors-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-752-colors-infinity-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-753-disney-international-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-754-disney-junior",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-755-jalsha-movies-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-756-movies-now-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-757-pogo",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-758-sony-entertainment-television",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-759-star-movies-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-760-sony-pix-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-761-sony-sab",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-762-zee-cinema-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-763-sony-max-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-764-star-jalsha",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-765-star-sports-2",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-766-star-sports-3",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-767-star-gold-2-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-768-star-sports-select-1-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-769-epic-parivar",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-770-superhitz",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-771-ten-cricket",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-772-travelxp-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-773-zee-bangla",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-774-star-kiran",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-775-zee-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-776-sony-sports-ten-1",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-777-sony-sports-ten-2",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-778-sony-sports-ten-3-hindi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-779-sony-sports-ten-4-kannada",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-780-sony-sports-ten-5",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-794-sun-tv-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-795-sun-surya-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-837-zee-tamil-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-850-et-now-swadesh-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-858-dukhniwaran",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-859-shaheedan-live",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-860-india-news-punjab-himachal",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-866-ind-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-875-fashiontv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1062-costv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1074-daystar-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1078-detroit-channel-10",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1079-detroit-channel-21",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1080-detroit-channel-22",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1081-detroit-channel-68",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -300,11 +560,59 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8894-",
+    "id": "sv-4208-la-hermandad-salsera-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8896-",
+    "id": "sv-4209-la-kalle",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4211-la-perla-radio-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4214-la-urban-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4215-la-voz-del-tropico-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4218-lapuracrema-television",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4220-laxitosa-panama-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4234-m6-music",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4237-magentamusik-360",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-6576-hunat-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9021-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9027-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9029-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9030-",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -312,7 +620,23 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9060-",
+    "id": "sv-9249-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17163-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17165-tvn",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17180-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17184-sbs",
     "reason": "failed 3+ consecutive checks"
   }
 ]
