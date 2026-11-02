@@ -44,10 +44,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-82-aryan-tv-national",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-96-bansal-news",
     "reason": "failed 3+ consecutive checks"
   },
@@ -236,10 +232,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-586-all-time-movies",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-588-starplus-hd-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
@@ -260,39 +252,107 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-973-axn-latin-america-mexico",
+    "id": "sv-991-best-of-dr-phil",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1522-wgbo-dt-66-1",
+    "id": "sv-995-big-civic-channel",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1531-willow",
+    "id": "sv-996-big-community-channel",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8896-",
+    "id": "sv-1007-bloomfield-access-government-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8900-",
+    "id": "sv-1008-bloomfield-access-tv-channel-5",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9051-",
+    "id": "sv-1017-bx-arts",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9053-",
+    "id": "sv-1018-bx-culture",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9055-",
+    "id": "sv-1019-bx-inform",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9090-",
+    "id": "sv-1020-bx-inspire",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1021-bx-omni",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1034-ccx1",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1037-channel-18-gac",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1049-city-of-monroe-government-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1053-clubbing-tv-france",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1061-costv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1073-daystar-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1077-detroit-channel-10",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1078-detroit-channel-21",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1079-detroit-channel-22",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1080-detroit-channel-68",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1583-espn-deportes-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1584-starz-encore-spanish",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1596-axn-black-romania",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1597-axn-white",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8916-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8920-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
