@@ -28,6 +28,10 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-37-9xm",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-45-aaj-tak",
     "reason": "failed 3+ consecutive checks"
   },
@@ -41,6 +45,10 @@
   },
   {
     "id": "sv-82-andy-haryana",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-101-anmol-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -73,6 +81,58 @@
   },
   {
     "id": "sv-157-captain",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-913-a-e",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-926-acc-network",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-927-access-4-pac",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-928-access-19",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-932-accuweather-now",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-936-adult-swim-latin-america",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-950-alabama-weather-network",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-963-amc",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-964-amc-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-965-amc-en-espanol",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1584-starz-encore-spanish",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9206-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17108-tvn",
     "reason": "failed 3+ consecutive checks"
   }
 ]
