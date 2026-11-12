@@ -72,31 +72,35 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1018-bx-arts",
+    "id": "sv-1810-ary-news",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1019-bx-culture",
+    "id": "sv-1825-filmax",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1020-bx-inform",
+    "id": "sv-1826-filmazia",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1021-bx-inspire",
+    "id": "sv-1840-harpal-geo",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1022-bx-omni",
+    "id": "sv-1841-hum-news",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1030-canal-infantil",
+    "id": "sv-2293-red",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9078-",
+    "id": "sv-2503-gem-river",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-8966-",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -108,27 +112,103 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17216-sbs",
+    "id": "sv-9185-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17220-sbs",
+    "id": "sv-9193-",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17232-sbs",
+    "id": "sv-17113-tvn",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17233-sbs",
+    "id": "sv-17211-sbs",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17236-",
+    "id": "sv-17228-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17229-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17235-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17238-tvn",
     "reason": "failed 3+ consecutive checks"
   },
   {
     "id": "sv-17244-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17245-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17249-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17253-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17254-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17255-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17257-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17373-box-office-teens",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17374-family-club",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17375-action-totale",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17376-comicit-piccante",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17377-cg-grandi-film-bollenti-spiriti-co",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17378-wild-side-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17379-romantica",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17380-i-bellissimi-film-by-cinema-excelsior",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17381-alleskino",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17382-gli-immortali-van-damme-vs-lundgren",
     "reason": "failed 3+ consecutive checks"
   }
 ]
