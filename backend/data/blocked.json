@@ -36,10 +36,6 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-24-rupashi-bangla-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-25-t-sports",
     "reason": "failed 3+ consecutive checks"
   },
@@ -68,23 +64,19 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-994-big-civic-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-995-big-community-channel",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1006-bloomfield-access-government-tv",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
-    "id": "sv-1007-bloomfield-access-tv-channel-5",
-    "reason": "failed 3+ consecutive checks"
-  },
-  {
     "id": "sv-1808-aik-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1811-ary-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1818-city-41",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1822-express-entertainment",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -104,11 +96,403 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-1845-jalwa-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1849-kay2-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1850-kids-zone",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1852-kohenoor-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1855-lahore-rang",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1856-ltn-family",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1860-madani-channel-english",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1862-masala-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1863-mashriq-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1864-mehran-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1865-metro1-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1867-neo-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1869-on-news-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1870-one-golf",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1871-paighan-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1872-pashto-1",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1873-pk-sports",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1874-play-entertainment",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1877-ptv-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1878-ptv-sports",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1879-public-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1880-quran-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1881-raavi-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1882-rohi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1883-roze-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1884-sab-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1885-samaa-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1886-shine-star-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1887-silver-screen",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1888-sindh-tv-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1889-sky-news-urdu",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1890-star-asia",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1892-suno-news-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1893-ten-sports-pakistan",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1894-tv-one-global",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1895-tv-today",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1896-venus-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1897-vsh-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1898-waseb-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1964-cartoon-network-cee-germany",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1973-cbbc-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1974-cbbc-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1976-cbeebies-united-kingdom-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1977-cbeebies-united-kingdom-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1982-cine-kids",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1984-clan-internacional",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1986-cufo",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1993-detvora",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1998-disney-channel-germany-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2000-disney-channel-netherlands",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2002-disney-channel-portugal",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2003-disney-channel-romania",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2008-disney-channel-latin-america-south",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2009-disney-jr-france",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2010-disney-jr-turkiye-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2013-disney-jr-latin-america-south-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2015-disney-junior-poland",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-2016-disney-junior-romania",
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-2020-dr-ramasjang-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2030-eureka-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2036-gem-junior",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2037-gem-kids",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2038-gloob",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2039-gloob-web-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2040-golden-eagle-cartoon",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2044-hodhod-farsi-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2053-jiangxi-children-s-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2059-kids-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2061-kidzone-max-sd-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2069-lale",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2077-mimi-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2113-nickelodeon-croatia",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2137-nickonline-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-2144-nicktoons-romania",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2329-anixe",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2330-anixe-hd-serie",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2331-ant1-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2359-bbc-nl",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2381-bitme",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2382-bitme-latin-america",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2383-blaze-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2384-blitstv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2389-breinholts",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2391-buena-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2393-cabo-frio-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2397-canal-10-mar-del-plata",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2398-canal-14-codazzi-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2402-canal-tro-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2404-canale-5-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2405-canale-5-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2421-channel-200",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2422-channel-k",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2424-charana-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2427-cheksiz-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2433-cinerama-television",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2448-de-unge-modre",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2451-dens-showbiz-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-2453-det-sene-show-med-christian-fuhlendorff",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3071-dazn-4",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3072-dazn-5",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -120,11 +504,59 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-9212-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9219-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9221-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-9222-",
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-9225-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9227-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9228-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9243-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9248-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-9249-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17249-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17250-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17253-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17258-",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -136,11 +568,15 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17270-",
+    "id": "sv-17268-sbs",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17309-sbs",
+    "id": "sv-17272-jtbc",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17284-sbs",
     "reason": "failed 3+ consecutive checks"
   }
 ]
