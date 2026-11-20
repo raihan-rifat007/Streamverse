@@ -36,47 +36,107 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-37-9xm",
+    "id": "sv-24-rupashi-bangla-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-101-anmol-tv",
+    "id": "sv-25-star-news",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-104-aradana-tv",
+    "id": "sv-26-t-sports",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-157-captain",
+    "id": "sv-27-vokta-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-176-colors-bangla-hd",
+    "id": "sv-36-9xm",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-473-mtv-hd",
+    "id": "sv-129-bada-khabar",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-476-music-india-geo-blocked",
+    "id": "sv-135-bhagyam-tv-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-918-access-4-pac",
+    "id": "sv-136-bhakthi-siri",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-919-access-19",
+    "id": "sv-159-cartoon-network-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-938-alabama-weather-network",
+    "id": "sv-176-colors-bangla-cinema",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9299-",
+    "id": "sv-177-colors-bangla-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-348-hosanna-tv-hindi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1018-best-of-dr-phil",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1022-big-civic-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1023-big-community-channel",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1034-bloomfield-access-government-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1035-bloomfield-access-tv-channel-5",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1048-bx-arts",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1049-bx-culture",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1050-bx-inform",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1051-bx-inspire",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1052-bx-omni",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1225-fox-west",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1235-fx-latin-america-south",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1242-gbn-global-buddhist-network",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1252-gmtv",
     "reason": "failed 3+ consecutive checks"
   }
 ]
