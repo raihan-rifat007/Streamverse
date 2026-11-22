@@ -56,6 +56,34 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-38-22scope-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-44-aagaaz-times",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-76-amn-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-80-anand-wari-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-84-andy-haryana",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-102-anmol-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-105-aradana-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-129-bada-khabar",
     "reason": "failed 3+ consecutive checks"
   },
@@ -68,11 +96,67 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-144-bharat-samachar",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-153-brk-news",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-329-harvest-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
     "id": "sv-331-harvest-usa",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1968-babyfirst-brazil",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1969-babytv-latin-america",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1970-babytv-turkiye-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1974-bbc-four-cbeebies",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1975-bbc-kids",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1978-bilim-ilim-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1979-biznet-kids",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-1985-boing-spain",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7112-nayarit-comunica",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7113-nbc-1-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9306-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17396-sbs",
     "reason": "failed 3+ consecutive checks"
   }
 ]
