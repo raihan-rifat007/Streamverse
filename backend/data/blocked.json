@@ -28,6 +28,18 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
+    "id": "sv-15-maasranga-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-24-rtv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-25-rupashi-bangla-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
     "id": "sv-26-t-sports",
     "reason": "failed 3+ consecutive checks"
   },
@@ -36,171 +48,707 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-233-dharsan-tv",
+    "id": "sv-29-6-tv-telugu",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-511-news18-kerala-geo-blocked",
+    "id": "sv-228-dd-tripura",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-634-rdx-goa-geo-blocked",
+    "id": "sv-229-dd-urdu",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-670-sangeet-bangla",
+    "id": "sv-383-kairali-arabia",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-993-best-of-dr-phil",
+    "id": "sv-518-news18-kerala-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-997-big-civic-channel",
+    "id": "sv-806-travelxp-4k-hdr-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-998-big-community-channel",
+    "id": "sv-881-zee-cine-classic",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1009-bloomfield-access-government-tv",
+    "id": "sv-941-alabama-weather-network",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-1010-bloomfield-access-tv-channel-5",
+    "id": "sv-1480-nyxt",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2201-sbt-kids-geo-blocked",
+    "id": "sv-1987-detvora",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2202-shandong-tv-children-s-channel-geo-blocked",
+    "id": "sv-2029-gem-junior",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2204-solnce",
+    "id": "sv-2030-gem-kids",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-2209-sts-kids",
+    "id": "sv-2031-gloob",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4470-radio-contact",
+    "id": "sv-2032-gloob-web-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4495-radio-romania-resita-not-24-7",
+    "id": "sv-2033-golden-eagle-cartoon",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4498-radio-san-borja-tv",
+    "id": "sv-2037-hodhod-farsi-tv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4500-radio-shanson-not-24-7",
+    "id": "sv-2147-nicktoons-adria",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4501-radio-stad-den-haag",
+    "id": "sv-2152-nrk-super-1080i-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4505-radio-tele-kajou-not-24-7",
+    "id": "sv-2216-sbt-kids-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4507-radio-weser-tv-bremen",
+    "id": "sv-2217-shandong-tv-children-s-channel-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4519-rewind-tv",
+    "id": "sv-2219-solnce",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4528-rotana-fm-ksa",
+    "id": "sv-2224-sts-kids",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4529-rotana-khalijia-geo-blocked",
+    "id": "sv-2231-supergeroi",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4682-tzik-not-24-7",
+    "id": "sv-2235-sx3-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4687-vantage-classic",
+    "id": "sv-2325-anixe",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4688-vantage-dance",
+    "id": "sv-2326-anixe-hd-serie",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-4689-vantage-music-geo-blocked",
+    "id": "sv-2327-ant1-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-5504-istoriya",
+    "id": "sv-2329-ant1-satellite",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-5511-love-the-planet-de-geo-blocked",
+    "id": "sv-2330-antares-television",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-5512-love-the-planet-es-geo-blocked",
+    "id": "sv-2331-antena-21",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-5513-love-the-planet-it-geo-blocked",
+    "id": "sv-2333-antena-hd",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-5522-national-geographic-croatia",
+    "id": "sv-2339-arte-france",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-5524-national-geographic-finland-geo-blocked",
+    "id": "sv-2340-arte-germany-geo-blocked",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-5527-national-geographic-netherlands",
+    "id": "sv-2342-arubatv",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-5528-national-geographic-netherlands-hd",
+    "id": "sv-2351-axn-spin-poland",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-8107-ural-24",
+    "id": "sv-2355-bbc-nl",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9245-",
+    "id": "sv-2508-gardenias-tv-not-24-7",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9246-",
+    "id": "sv-2510-gem-entertainment",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9247-",
+    "id": "sv-2511-gem-river",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9255-",
+    "id": "sv-2512-gem-river",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9256-",
+    "id": "sv-2675-mtv-geordies",
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-9275-24",
+    "id": "sv-3024-cbc-sport-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3034-combate",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3356-supertennis",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3364-tdm-sports",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3397-tvri-sport",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3401-upl-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3405-vital-drive",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3420-3cat-exclusiu-1-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3421-3cat-exclusiu-2-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3422-3cat-exclusiu-3-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3430-24-horas-canarias",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3433-24kz",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3526-apostrophe-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3543-bandnews",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3547-bbc-news-europe",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3550-bbc-news-uk-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3552-bdn",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3558-beritasatu",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3560-bfm-business",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3561-bfm-cote-d-azur",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3562-bfm-dici-alpes-du-sud",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3563-bfm-dici-haute-provence",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3564-bfm-grand-lille",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3565-bfm-grand-littoral",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3566-bfm-lyon",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3567-bfm-marseille",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3568-bfm-normandie",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3569-bfm-tech-co",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3571-bfm-var",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3663-cts-news-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3667-dha-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3671-don-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3672-donbass-online-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3681-e-tv-news-sport",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3684-ebc-financial-news-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3685-ebc-news-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3699-etv-marche",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3700-etv-rete-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3701-euro-tv-greece",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3719-filinfo-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3728-france-24-english-hd",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3733-ftv-taiwan-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3734-fuegotv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3737-git",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3739-gnt",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3752-hc2-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3756-hispan-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3757-hln-live",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3759-hrt-4-hd-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3761-huma-betang-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3762-hunan-news-channel-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3768-i-ua-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3769-ici-rdi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3771-icone-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3786-kin24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3788-kolalnas-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3789-kompas-tv-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3972-set-news-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3974-sic-noticias-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3985-snn-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3988-start-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3993-sunulabel-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-3999-tdm-information-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4000-telecanal",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4001-telecauquenes",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4003-telejato",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4011-ternopil-1",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4017-tn23",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4022-tonghua-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4026-tribuna-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4033-tsn-telesondrio-news-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4037-tv5monde-info",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4046-tv-sud-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4047-tvbs-news-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4050-tvm-el-salvador-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4710-vevo-2k",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4711-vevo-70s",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4712-vevo-80s",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4713-vevo-90s",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4714-vevo-country",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4718-vevo-retro-rock",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4720-video-rola",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-4723-vip-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5210-pluto-tv-weihnachten-im-sommer",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5226-qtv-3",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5229-rakuten-tv-action-movies-austria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5230-rakuten-tv-action-movies-finland",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5235-rakuten-tv-comedy-movies-austria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5236-rakuten-tv-comedy-movies-finland",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5241-rakuten-tv-drama-movies-austria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5242-rakuten-tv-drama-movies-finland",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5247-rakuten-tv-family-movies-austria",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5248-rakuten-tv-family-movies-finland",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5251-rakuten-tv-family-movies-switzerland",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5253-rakuten-tv-nordic-films",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5255-rakuten-tv-top-movies-finland",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5262-rotana-cinema-egypt-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5264-rtsh-shqip",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5269-russkiy-illusion",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-5270-russkiy-roman",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-6982-mdr-fernsehen-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-6983-mdr-fernsehen-sachsen-anhalt-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-6990-mediterraniatv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-6991-meer-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7000-mesogeios-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7011-mikuba-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7016-mir-2-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7017-mir-4",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7018-mir-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7022-misto",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7024-mkk-web-tv-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7025-ml5-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7047-mtm-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7051-mtv-chontales-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7110-nbc-woai-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7112-nbc-wrde-ld-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7606-simavision-canal-18",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7607-simaye-azadi",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7621-sntv-daljir",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7624-sol2",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7625-sol-tv-bolivia",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7629-soltvadkerti-televizio",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7630-somali-national-tv",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7631-somos-entre-rios",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7643-srf",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7800-television-de-san-vicente",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7805-television-publica",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7808-televize-prerov-geo-blocked",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7811-televizija-m",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-7812-televizija-urslja-not-24-7",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9261-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9268-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9271-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9273-",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9277-",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -208,7 +756,19 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17371-sbs",
+    "id": "sv-9290-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9297-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-9298-24",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17390-sbs",
     "reason": "failed 3+ consecutive checks"
   },
   {
@@ -216,7 +776,27 @@
     "reason": "failed 3+ consecutive checks"
   },
   {
-    "id": "sv-17414-sbs",
+    "id": "sv-17397-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17401-jtbc",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17402-tvn",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17412-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17413-sbs",
+    "reason": "failed 3+ consecutive checks"
+  },
+  {
+    "id": "sv-17416-",
     "reason": "failed 3+ consecutive checks"
   }
 ]
